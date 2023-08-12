@@ -1,4 +1,4 @@
-### Hi there, my name is Pavel 👋
+### Hi there, my name is Pavel <img src="./assets/hi.gif" width="35px" height="35px" alt="hi" />
 
 <!--
 **PavelCherepanov/PavelCherepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
